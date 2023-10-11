@@ -119,10 +119,9 @@ They indicate that passenger usage is concentrated in central Jakarta, particula
 - The corridors frequently used on holidays differ from peak hours on weekends. Passengers tend to use corridors that lead to bus terminals on holidays, particularly during the Lebaran holiday.
 This suggests the importance of evaluating the optimal operation of these corridors during holidays to ensure they meet the demand.
 
-Recommendations
+## Recommendations
 
 1. Provision of Women-Specific Facilities:
-
 Expand women-only bus services on corridors frequently used by female passengers without adequate facilities. Examples include Pasar Minggu - Tanah Abang, Poris Plawad - Bundaran Senayan, and Rusun Rawa Bebek – Kodamar corridors.
 
 2. Facilities and Services for Seniors:
