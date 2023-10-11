@@ -3,13 +3,13 @@ Data Analysis Task With Pandas (Transjakarta Case Analysis)
 
 # PT. Transjakarta Data Analysis
 ## Introduction
-This repository contains data and analysis related to PT. Transjakarta, a public transportation company in Jakarta, Indonesia. The analysis aims to optimize fleet performance and the operational aspects of Transjakarta based on the available dataset. The data analyst's role is to provide recommendations for improving the quality of service and operational efficiency.
+This repository contains data and analysis related to PT. Transjakarta, a public transportation company in Jakarta, Indonesia. The analysis aims to optimize Transjakarta fleet performance and the operational aspects of Transjakarta based on the available dataset. The data analyst's role is to provide recommendations for improving the quality of service and operational efficiency.
 
 ## Background
-PT. Transjakarta operates various types of public transportation services, including BRT (Bus Rapid Transit), Non BRT, Royal Trans, Mikrotrans, Bus Wisata Terpadu, and Transjabodetabek in the Jakarta area. Continuous improvement through monthly evaluations is crucial to monitor and enhance fleet and operational performance, addressing issues like overcrowding, infrastructure quality, elderly-friendly facilities, and women's safety.
+PT. Transjakarta operates various types of public transportation services, including BRT (Bus Rapid Transit), Non BRT, Royal Trans, Mikrotrans, Bus Wisata Terpadu, and Transjabodetabek in the Jakarta area. Continuous improvement through monthly evaluations is crucial to monitor and enhance Transjakarta fleet and operational performance, addressing issues like overcrowding, infrastructure quality, elderly-friendly facilities, and women's safety.
 
 ## Problem Statement
-The key problem is: "How to optimize fleet performance, facilities, and the operational aspects of Transjakarta?"
+The key problem is: "How to optimize Transjakarta fleet performance, facilities, and the operational aspects of Transjakarta?"
 
 ## Key Questions
 a. Passenger Profile:
@@ -127,25 +127,25 @@ Expand women-only bus services on corridors frequently used by female passengers
 2. Facilities and Services for Seniors:
 - Enhance elderly-friendly facilities at bus stops, including priority seating and easily readable information.
 Conduct educational campaigns through announcements at bus stops and on buses to encourage passengers to prioritize seniors when using facilities and priority seats.
-- Modify the bus fleet to include more priority seating on routes frequently used by seniors.
+- Modify the Transjakarta fleet to include more priority seating on routes frequently used by seniors.
 - Revitalize bus stops that are challenging for seniors to access.
 
-3. Optimization of Bus Fleet and Facilities on Busy Corridors:
+3. Optimization of Transjakarta Fleet and Facilities on Busy Corridors:
 - Increase the number of buses on crowded and frequently problematic corridors like Cibubur-Balai Kota, Ciputat - CSW, and Harmoni - Jakarta International Stadium to address congestion during peak hours.
-- Achieve fleet increases by reassigning buses from less crowded corridors to busy ones.
-- Ensure that the fleet availability aligns with passenger volumes during peak times.
+- Achieve Transjakarta fleet increases by reassigning buses from less crowded corridors to busy ones.
+- Ensure that the Transjakarta fleet availability aligns with passenger volumes during peak times.
 
 4. Adjustment of Operational Hours:
-- Consider adapting bus fleet operational hours during peak periods to maintain service quality and prevent overcrowding.
+- Consider adapting Transjakartas fleet operational hours during peak periods to maintain service quality and prevent overcrowding.
 
 5. Improvement of Facilities and Bus Stop Layout:
 - Revitalize and expand bus stops with high passenger volumes, especially at key locations such as Garuda Taman Mini, Rusun Muara Kapuk, Penjaringan, Rawa Selatan, and Cibubur Junction.
 - Enhance accessibility and comfort at bus stops that continue to receive complaints from passengers, such as the Senayan bus stop.
 
 6. Transjakarta Fleet Allocation on Weekends and Holidays:
-- Allocate or implement a bus fleet reassignment system for locations frequently visited on weekends, such as city centers, shopping centers, and tourist destinations. In the dataset, these locations are served by routes like Pinang Ranti - Kampung Rambutan, JIS- Terminal Muara Angke, and Pinang Ranti - Bundaran Senayan.
-- For Lebaran holidays, focus bus fleet allocation or reassignment on corridors with terminals like Kampung Melayu, Kampung Rambutan, and Pulo Gadung, as data indicates significant passenger traffic to these areas.
-Equitably allocate tourist bus fleet to accommodate passenger volumes and reduce long waiting times on weekends and holidays.
+- Allocate or implement a Transjakarta fleet reassignment system for locations frequently visited on weekends, such as city centers, shopping centers, and tourist destinations. In the dataset, these locations are served by routes like Pinang Ranti - Kampung Rambutan, JIS- Terminal Muara Angke, and Pinang Ranti - Bundaran Senayan.
+- For Lebaran holidays, focus Transjakarta fleet allocation or reassignment on corridors with terminals like Kampung Melayu, Kampung Rambutan, and Pulo Gadung, as data indicates significant passenger traffic to these areas.
+Equitably allocate tourist Transjakarta fleet to accommodate passenger volumes and reduce long waiting times on weekends and holidays.
 
 For a more interactive and visual representation of the analysis, you can access the Tableau dashboard here (https://public.tableau.com/app/profile/eva.fachria/viz/TransjakartaDataAnalysisbyEvaFachria/Story1)
 
