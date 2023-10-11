@@ -70,7 +70,7 @@ Missing Value Handling
 c. Data Clean
 The dataset is now clean and ready for further analysis.
 
-## Transjakarta Passenger Analysis
+## Data Analysis
 In this report, we present an analysis of Transjakarta passenger data with the aim of addressing specific challenges and improving the overall service. The analysis is structured around key problem statements to provide precise insights.
 
 Table of Contents
