@@ -73,9 +73,9 @@ The dataset is now clean and ready for further analysis.
 ## Data Analysis
 In this report, we present an analysis of Transjakarta passenger data with the aim of addressing specific challenges and improving the overall service. The analysis is structured around key problem statements to provide precise insights.
 
-Table of Contents
+Table of Contents:
 
-1.Profile of Transjakarta Passengers
+1. Profile of Transjakarta Passengers
 
 2. Travel Patterns Based on Passenger Profiles
    
