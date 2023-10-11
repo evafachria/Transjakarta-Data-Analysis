@@ -15,15 +15,20 @@ The key problem is: "How to optimize Transjakarta fleet performance, facilities,
 a. Passenger Profile:
 What is the gender distribution of Transjakarta users?
 What is the age distribution of Transjakarta users?
+
 b. Travel Patterns Based on Passenger Profiles:
 Which corridors are frequently used by female passengers?
 Which corridors are frequently used by senior passengers?
+
 c. Overall Travel Patterns:
 Which corridors or routes are the most frequently used by Transjakarta passengers?
+
 d. Peak Usage Times:
 When does the system experience peak usage during a day?
+
 e. Travel Patterns During Peak Times:
 Which corridors and stops are frequently used during peak times?
+
 f. Weekend and Holiday Travel Patterns:
 How do passenger patterns differ on weekends and holidays?
 
