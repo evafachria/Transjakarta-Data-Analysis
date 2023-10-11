@@ -149,8 +149,8 @@ Equitably allocate tourist bus fleet to accommodate passenger volumes and reduce
 
 For a more interactive and visual representation of the analysis, you can access the Tableau dashboard here (https://public.tableau.com/app/profile/eva.fachria/viz/TransjakartaDataAnalysisbyEvaFachria/Story1)
 
-Author
+### Author
 [EVA FACHRIA]
 
-Acknowledgments
+### Acknowledgments
 Special thanks to [Ragil Hadi Prasetyo] for the help and insight.
