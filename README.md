@@ -35,21 +35,21 @@ f. Weekend and Holiday Travel Patterns:
 ## Data Understanding
 Before diving into analysis, it's essential to understand the dataset. Here's an overview:
 
-The dataset has 22 columns and 37,900 rows.
-Data ranges from April 1, 2023, to April 30, 2023.
-Several columns contain missing data, which will be addressed in the data cleaning process.
-Data types are mostly categorical, and some columns need time data type conversion.
-No significant anomalies or outliers are detected in the data.
+- The dataset has 22 columns and 37,900 rows.
+- Data ranges from April 1, 2023, to April 30, 2023.
+- Several columns contain missing data, which will be addressed in the data cleaning process.
+- Data types are mostly categorical, and some columns need time data type conversion.
+- No significant anomalies or outliers are detected in the data.
 
 Data Cleaning
 a. Data Duplication
-No data duplication is found in the dataset.
+- No data duplication is found in the dataset.
 
 b. Missing Values
-Around 6% of the data contains missing values. Missing values are primarily observed in columns related to corridors, stops, and timestamps.
+- Around 6% of the data contains missing values. Missing values are primarily observed in columns related to corridors, stops, and timestamps.
 
 Missing Value Handling
-Missing values are filled through mapping and logic based on specific columns:
+- Missing values are filled through mapping and logic based on specific columns:
 
 Corridor IDs are filled based on corridor names and stop locations (latitude and longitude).
 Corridor names are filled based on corridor IDs.
