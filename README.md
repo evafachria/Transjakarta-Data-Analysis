@@ -49,21 +49,22 @@ b. Missing Values
 - Around 6% of the data contains missing values. Missing values are primarily observed in columns related to corridors, stops, and timestamps.
 
 Missing Value Handling
-- Missing values are filled through mapping and logic based on specific columns:
+  Missing values are filled through mapping and logic based on specific columns:
 
-Corridor IDs are filled based on corridor names and stop locations (latitude and longitude).
-
-Corridor names are filled based on corridor IDs.
-
-Stop IDs are filled based on stop locations.
-
-Stop names, latitudes, and longitudes are filled based on stop IDs.
-
-Pay amounts are assigned based on corridor types (flat rate or special fare).
-
-Time Data Modification
-
-Timestamp columns 'tapInTime' and 'tapOutTime' are converted to the appropriate data type and separated into hours, days, and weeks for deeper analysis.
+    Corridor IDs are filled based on corridor names and stop locations (latitude and longitude).
+    
+    Corridor names are filled based on corridor IDs.
+    
+    Stop IDs are filled based on stop locations.
+    
+    Stop names, latitudes, and longitudes are filled based on stop IDs.
+    
+    Pay amounts are assigned based on corridor types (flat rate or special fare).
+    
+    Time Data Modification
+    
+    Timestamp columns 'tapInTime' and 'tapOutTime' are converted to the appropriate data type and separated into hours, days, and weeks for deeper 
+    analysis.
 
 c. Data Clean
 The dataset is now clean and ready for further analysis.
