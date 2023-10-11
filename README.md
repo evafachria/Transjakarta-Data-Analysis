@@ -137,6 +137,39 @@ They indicate that passenger usage is concentrated in central Jakarta, particula
 - The corridors frequently used on holidays differ from peak hours on weekends. Passengers tend to use corridors that lead to bus terminals on holidays, particularly during the Lebaran holiday.
 This suggests the importance of evaluating the optimal operation of these corridors during holidays to ensure they meet the demand.
 
+## Conclusion
+
+The conclusion from the monthly data analysis for optimizing the performance of Transjakarta's fleet and travel routes/stops is as follows:
+
+1.Passenger Profile:
+- The proportion of female passengers doesn't differ significantly from male passengers. However, the need for special women-only buses in the analyzed areas should be reconsidered due to inclusive policies.
+- Most Transjakarta users are adults (20-59 years) and teenagers (12-19 years). Adjustments are needed to cater to the needs of elderly passengers to provide a friendly and comfortable transportation service.
+
+2. Travel Patterns Based on Passenger Profile:
+- Three corridors frequently used by female passengers but lacking dedicated women-only buses are Pasar Minggu - Tanah Abang, Poris Plawad - Bundaran Senayan, and Rusun Rawa Bebek – Kodamar.
+- The top three corridors used by elderly passengers are Ragunan-Glora Bung Karno, Kampung Rambutan - Tanjung Priok, and Cibubur-BKN.
+
+3. Overall Travel Patterns:
+- Transjakarta's usage is concentrated in Central and South Jakarta.
+- The top three corridors used are Cibubur-Balai Kota, Ciputat - CSW, and Harmoni - Jakarta International Stadium.
+
+4. Peak Hours:
+- Morning rush hours occur from 5 am to 9 am, and evening rush hours are from 4 pm to 9 pm.
+- Mondays have the highest usage in both morning and evening rush hours.
+
+5. Travel Patterns During Peak Hours:
+- Corridor 1T (Cibubur-Balai Kota) is the busiest during morning and evening rush hours.
+- Some stops are crowded even without revitalization and expansion, such as Garuda Taman Mini, Rusun Muara Kapuk, Penjaringan, Rawa Selatan, and Cibubur Junction.
+
+6. Transjakarta Usage on Weekends and Holidays:
+- Weekend usage decreases but is still essential, with rush hours spreading from 5 am to 8 pm.
+- The most used corridors on weekends include Pinang Ranti - Kampung Rambutan, JIS-Terminal Muara Angke, Pinang Ranti - Bundaran Senayan, and others, which connect to the city center and tourist areas in Jakarta.
+- On holidays like Eid, corridors leading to terminals, such as Kampung Melayu, Kampung Rambutan, and Pulo Gadung, are popular.
+
+
+By understanding passenger profiles, travel patterns, peak hours, and weekend/holiday trends, PT. Transjakarta can adjust its strategies to enhance services, improve facilities, and provide a better transportation experience for passengers.
+
+
 ## Recommendations
 
 1. Provision of Women-Specific Facilities:
