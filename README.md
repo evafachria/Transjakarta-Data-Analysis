@@ -41,7 +41,8 @@ Before diving into analysis, it's essential to understand the dataset. Here's an
 - Data types are mostly categorical, and some columns need time data type conversion.
 - No significant anomalies or outliers are detected in the data.
 
-Data Cleaning
+## Data Cleaning
+
 a. Data Duplication
 - No data duplication is found in the dataset.
 
