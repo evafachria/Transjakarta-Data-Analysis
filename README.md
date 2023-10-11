@@ -74,12 +74,17 @@ In this report, we present an analysis of Transjakarta passenger data with the a
 
 Table of Contents
 1.Profile of Transjakarta Passengers
-2. Travel Patterns Based on Passenger Profiles
-3. Overall Passenger Travel Patterns
-4. Busy Hours
-5. Travel Patterns During Peak Hours
-6. Transjakarta Usage on Weekends and Holidays
 
+2. Travel Patterns Based on Passenger Profiles
+   
+3. Overall Passenger Travel Patterns
+   
+4. Busy Hours
+   
+5. Travel Patterns During Peak Hours
+   
+6. Transjakarta Usage on Weekends and Holidays
+    
 
 ### Profile of Transjakarta Passengers
 a. Gender-Based Proportions:
