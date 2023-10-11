@@ -142,7 +142,7 @@ This suggests the importance of evaluating the optimal operation of these corrid
 
 The conclusion from the monthly data analysis for optimizing the performance of Transjakarta's fleet and travel routes/stops is as follows:
 
-1.Passenger Profile:
+1. Passenger Profile:
 - The proportion of female passengers doesn't differ significantly from male passengers. However, the need for special women-only buses in the analyzed areas should be reconsidered due to inclusive policies.
 - Most Transjakarta users are adults (20-59 years) and teenagers (12-19 years). Adjustments are needed to cater to the needs of elderly passengers to provide a friendly and comfortable transportation service.
 
